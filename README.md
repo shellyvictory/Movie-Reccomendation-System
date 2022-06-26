@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - [Shelly Victory](https://www.dicoding.com/users/victorysl)
+# Laporan Proyek Machine Learning - [Shelly Victory](https://www.linkedin.com/in/shellyvictory/)
 
 ## *Project Overview*
 Sistem rekomendasi merupakan salah satu aplikasi yang sukses dalam menyaring banyaknya informasi tersedia di internet. Tujuan digunakannya sistem rekomendasi adalah untuk menyarankan produk atau item berupa buku, movie, berita, CD, hingga DVD kepada pengguna berdasarkan riwayat preferensi mereka. [Zang et. al.,](https://www.sciencedirect.com/science/article/abs/pii/S1045926X14000901) (2014), membuat sistem rekomendasi movie dengan tipe *hybrid-based dataset* Movielens. Hasil dari sistem yang dibuat yaitu menghasilkan rekomendasi yang lebih terpersonalisasi namun proses pembuatannya cukup rumit dibanding metode lain. Pada proyek ini, akan dibuat sistem rekomendasi movie dengan tipe *content-based filtering*.
